@@ -205,28 +205,30 @@ The client-side application provides:
 # 📂 Project Structure
 
 ```
-house-price-prediction/
+bengaluru-house-price-detection/
 
 │
 ├── client/
-│   │
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 │
-│
 ├── server/
-│   │
 │   ├── main.py
 │   ├── util.py
 │   ├── requirements.txt
-│   │
 │   └── artifacts/
 │       ├── columns.json
 │       └── banglore_home_prices_model.pickle
 │
+├── screenshots/
+│   ├── home_page.png
+│   ├── prediction_result.png
+│   └── fastapi_endpoints.png
+|   └── fastapi_prediction_test.jpeg
 │
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
