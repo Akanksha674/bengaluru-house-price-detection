@@ -1,0 +1,54 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# PyCharm files
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Model training temporary files
+*.pkl.tmp
+
+# Data files (optional)
+# Uncomment if you don't want to upload datasets
+# data/
+# *.csv
+
+# Streamlit cache (if used)
+.streamlit/
+
+# Node modules (if frontend packages are added later)
+node_modules/
+
+anaconda_projects/
+
+data/
